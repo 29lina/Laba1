@@ -180,3 +180,11 @@ th, td {
     width: 500px;
     text-transform: none;
 }
+
+.block{
+    height: 70px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
